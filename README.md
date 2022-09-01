@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SOZETTASLOW021
+- 👋 Hi, I’m @aidanguzman
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me adguzman210@gmail.com
